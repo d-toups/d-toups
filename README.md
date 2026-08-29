@@ -1,11 +1,11 @@
-# Hi, I'm Dennis Toups 
+# Hi, I'm Dennis Toups
 
-**Data Scientist & ML Engineer** with a strong technical background from the US Navy and a passion for deriving actionable insights from data.
+**Technical Program Manager** and Navy veteran. I lead complex technical delivery and use data/Python to make better program decisions.
 
 ## Current Focus
-- Building end-to-end data science and machine learning projects
-- Fitness & human performance analytics
-- Time series analysis and predictive modeling
+- Technical program and project delivery
+- Data analysis and applied ML for decision support
+- Fitness / human-performance analytics and time-series modeling
 
 ## Featured Projects
 
