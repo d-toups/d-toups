@@ -1,11 +1,11 @@
 # Hi, I'm Dennis Toups
 
-**Technical Program Manager** and Navy veteran. I lead complex technical delivery and use data/Python to make better program decisions.
+**Data Analyst** and Navy veteran. I use Python, SQL, and statistics to turn messy operational data into clear, usable insights.
 
 ## Current Focus
-- Technical program and project delivery
-- Data analysis and applied ML for decision support
-- Fitness / human-performance analytics and time-series modeling
+- Data analysis, statistical testing, and clear reporting
+- Python, SQL, and applied modeling for decision support
+- Fitness analytics and time-series projects
 
 ## Featured Projects
 
