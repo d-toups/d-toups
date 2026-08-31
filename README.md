@@ -20,6 +20,9 @@ Explored gender and age differences in fitness preferences and training intensit
 ### [Stock Price Trend Prediction](https://github.com/d-toups/stock-price-trend-prediction)
 Time series classification project using engineered features and proper validation (TimeSeriesSplit) to predict stock movement.
 
+### [Bookstore Database](https://github.com/d-toups/bookstore-database-sql)
+Designed a normalized (3NF) relational schema and wrote SQL queries for extraction and reporting.
+
 ## Skills
 - **Languages**: Python, SQL
 - **ML/DL**: scikit-learn, XGBoost, Random Forest, KNN
