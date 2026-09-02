@@ -15,7 +15,6 @@ Explored gender and age differences in fitness preferences and training intensit
 **Key Results**:
 - Experience Level: 0.84 accuracy (XGBoost)
 - Strong statistical insights on age vs intensity
-- Relevant for fitness apps and health monitoring programs
 
 ### [Stock Price Trend Prediction](https://github.com/d-toups/stock-price-trend-prediction)
 Time series classification project using engineered features and proper validation (TimeSeriesSplit) to predict stock movement.
@@ -25,8 +24,8 @@ Designed a normalized (3NF) relational schema and wrote SQL queries for extracti
 
 ## Skills
 - **Languages**: Python, SQL
-- **ML/DL**: scikit-learn, XGBoost, Random Forest, KNN
 - **Data**: pandas, seaborn, matplotlib
+- **ML/DL**: scikit-learn, XGBoost, Random Forest, KNN
 - **Tools**: Git, GitHub, Jupyter, Colab
 
 ## Let's Connect
